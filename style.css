@@ -60,7 +60,7 @@ section{
 }
 section > p{
     padding-bottom: 2em;
-    text-shadow: 1px 1px 0px black;
+    text-shadow: 0.5px 0px 0px black;
 }
 
 section.normal{
@@ -79,7 +79,7 @@ section.imagem{
 section.imagem >p{
     background-color: rgba(0, 0, 0, 0.473);
     display: inline-block;
-    border-radius: 10px;
+    border-radius: 2px;
     padding: 5px;
    
 }
